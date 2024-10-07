@@ -1,0 +1,404 @@
+<!DOCTYPE HTML>
+<!--
+	Slate by Pixelarity
+	pixelarity.com | hello@pixelarity.com
+	License: pixelarity.com/license
+-->
+<html>
+	<head>
+		<title>Unilift Global - Our Team</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+        <link rel="stylesheet" href="swipebox/src/css/swipebox.css">
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body>
+
+		<!-- Header -->
+			<header id="header">				<h1><a href="index.html">VegaKawecki<span>.pl</span></a></h1>
+<nav id="nav">
+					<ul>
+						<li><a href="index.html">Strona Główna</a></li>
+						<li>
+							<a href="#" class="submenu fa-angle-down">Produkty</a>
+							<ul>
+								<li>
+									<a href="#">Special Steel Wire Ropes</a>
+									<ul>
+										<li><a href="diepa-special-ropes.html">DIEPA<sup>®</sup> Special Wire Rope</a></li>
+										<li><a href="unilift-special-ropes.html">Unilift<sup>®</sup> Special Wire Rope</a></li>
+										<li><a href="general-wire-rope.html">General Purpose Wire Rope</a></li>
+										<li><a href="oem-replacement-rope-sets.html">OEM Replacement Rope Sets</a></li>
+										<li><a href="rigging-accessories.html">Rigging Accessories</a></li>
+									</ul>
+								</li>
+								<li>
+									<a href="#">Synthetic Rope & Slings</a>
+									<ul>
+                                        <li><a href="extreema-heavy-lift-soft-slings.html">Extreema<sup>®</sup> Heavy-Lift Slings</a></li>
+                                        <li><a href="murlink-synthetic-chain.html">Murlink<sup>®</sup> Synthetic Chain</a></li>
+										<li><a href="dynamica-synthetic-ropes.html">Dynamica<sup>®</sup> Synthetic Rope</a></li>
+									</ul>
+                                </li>
+                                <li><a href="heavy-recovery-&-towage.html">Heavy Recovery & Towage</a></li>
+								<li>
+									<a href="#">Engineered Lifting Systems</a>
+									<ul>
+                                        <li><a href="fabricated-lifting-systems.html">Links, Beams & Spreaders</a></li>
+                                        <li><a href="manufactured-lifting-slings.html">Manufactured Wire Rope & Chain Slings</a></li>
+									</ul>
+                                </li>
+								<li><a href="#">Fittings & Hardware</a>
+									<ul>
+                                        <li><a href="green-pin.html">GreenPin<sup>®</sup> shackles, sockets & swivels</a></li>
+                                        <li><a href="gunnebo.html">Gunnebo<sup>®</sup> Grade 100 chain & fittings</a></li>
+                                        <li><a href="gn-rope.html">GN<sup>®</sup> thimbles, sockets & links</a></li>
+                                        <li><a href="cartec.html">Cartec<sup>®</sup> lifting & lashing hardware</a></li>
+                                        <li><a href="rope-block.html">RopeBlock<sup>®</sup> crane hardware</a></li>
+                                        <li><a href="global-rope-fittings.html">Global Rope<sup>®</sup> offshore end fittings</a></li>
+									</ul>
+                                </li>
+							</ul>
+						</li>
+						<li>
+							<a href="#" class="submenu fa-angle-down">Services</a>
+							<ul>
+								<li><a href="testing.html">Proof-load Testing</a></li>
+								<li><a href="inspection.html">Inspection & Maintenance</a></li>
+								<li><a href="rope-service.html">Rope Services</a></li>
+								<li><a href="rental.html">Rental</a></li>
+								<li><a href="industries.html">Industry Profile</a></li>
+							</ul>
+						</li>
+						<li><a href="latest-news.html">Latest News</a></li>						
+                        <li><a href="our-team.html">Meet the Team</a></li>
+                        <li><a href="online-auctions.html" class="button">Uni-Auction</a></li>
+					</ul>
+				</nav>
+			</header>
+
+        
+		<!-- Main -->
+			<section id="main" class="wrapper">
+				<div class="inner">
+
+					<header class="major">
+						<h2>Meet the Unilift Team</h2>
+					</header>
+
+					<!-- Content -->
+						<div class="content">
+						<span class="image fit"><img src="images/company-profile/Unilift-Team_0922_FMP_2721-WEB-001.png" alt="Unilift - Our Team" /></span>
+							<h2>A family business with an international focus</h2>
+							<p>What began in 2001 as a small family-owned rigging shop has grown to become a dominant player in the Australian — and more recently international — heavy-lift industry. 
+                                With our client-base now extending from the Australian mainland & offshore to New Zealand, Asia and even the USA, our dedication to the best products, service and advice is only made possible by seeking the best people to join our team.
+                                We'd like to introduce you below to just some of our team. Please don't hesitate to contact us with any specific enquiries.   
+                            </p>
+						</div>
+
+				</div>
+			</section>
+        
+        
+		<!-- One -->
+			<section id="one" class="wrapper major-pad">
+				<div class="inner">
+                <header class="major">
+					<h2>Executive & Sales</h2>
+                </header>
+				</div>
+			</section>
+
+		<!-- Two -->
+			<section id="two" class="wrapper content-pad">
+				<div class="inner">
+					<div class="features">
+						<section class="content">
+                            <h2><span class="image right"><img src="images/company-profile/Unilift-Team-Edwin_0922_FMP_2769-WEB-008.png" alt=""/></span>Edwin Scott</h2>
+							<p><strong>Director</strong></p>
+							<p>Edwin Scott has enjoyed a career in the construction and contracting business spanning almost 50 years. When he originally founded Unilift in 2001, it was initially established as a ‘second string in the bow’ for his existing family plumbing & roofing business. But within two years, it was clear that Unilift was destined to be more more than just a side-line. Edwin has been a key player in this successful growth, leading Unilift through both the tough times and the times of expansion, establishing Unilift as one of the major players in the heavy-lift industry. With a passion for excellence and customer satisfaction, it is not uncommon to still see Edwin on the factory floor helping the wire rope workers or warehouse team, or running urgent deliveries across the country</p>
+							<h1>Contact</h1>
+                            <a href="tel:0411 488 930">‭‭0411 488 930‬‬</a>
+							<p><a href="mailto:edwin.scott@uniliftglobal.com?subject=Website Enquiry for Edwin">edwin.scott@uniliftglobal.com</a></p>
+						</section>
+						<section class="content">
+                            <h2><span class="image right"><img src="images/company-profile/Unilift-Team-Ben_0922_FMP_2762-WEB-005.png" alt=""/></span>Ben Scott</h2>
+							<p><strong>Managing Director</strong></p>
+							<p>Working closely with Edwin, Ben Scott has been another driving force behind the success of Unilift. He hit the ground running in 2001 when his father began the company, and within two years the lifting side of the business was a rapidly expanding, resulting in the winding down of the original business to concentrate on Unilift. Now, with more than 20 years in the game, Ben is still passionate about heavy-lift and is backed by a wealth of experience in some of Australia’s most complex on-and-off shore rigging projects. His passion for steel wire rope and heavy-lift rigging has taken him across the globe, learning collaboratively with customers and working with some of the very best specialist suppliers. Ben’s vision for the future of Unilift is strong growth through excellence — excellence in product range, engineering know-how & customer service.</p>
+							<h1>Contact</h1>
+                            <a href="tel:0411 369 914">0411 369 914</a>
+							<p><a href="mailto:ben.scott@uniliftglobal.com?subject=Website Enquiry for Ben">ben.scott@uniliftglobal.com</a></p>
+						</section>
+						<section class="content">
+                            <h2><span class="image right"><img src="images/company-profile/Unilift-Team-Calvin_0922_FMP_2764-WEB-006.png" alt=""/></span>Calvin Scott</h2>
+							<p><strong>Supply Chain Manager</strong></p>
+							<p>Calvin Scott joined the family business in 2016 after working for a large national company, cutting his teeth in purchasing before progressing into the role of supply chain manager. Whilst Calvin now has a crucial role in Unilift’s internationally sourced supply chain, he began his time on the Unilift floor like everyone else in management: swaging wire ropes, fabricating chain lifting slings and gaining vital hands-on experience with the products through testing, inspection & maintenance. Calvin is an important cog in the production wheel; maintaining inventory, negotiating with our international suppliers and keeping a tab on the quality of products & materials for our production team.</p>
+							<h1>Contact</h1>
+                            <a href="tel:‭0413 771 663">‭0413 771 663‬</a>
+							<p><a href="mailto:calvin.scott@uniliftglobal.com?subject=Website Enquiry for Calvin">calvin.scott@uniliftglobal.com</a></p>
+						</section>
+					</div>
+                    <hr>
+					<div class="features">
+						<section class="content">
+                            <h2><span class="image right"><img src="images/company-profile/Unilift-Team-Caleb_0922_FMP_2798-WEB-013.png" alt=""/></span>Caleb Scott</h2>
+							<p><strong>Sales - Wire Rope Division</strong></p>
+							<p>Caleb Scott joined Unilift in 2012, commencing his heavy-lift career in the lifting inspection team before progressing into wire rope production, then the welding & fabrication division and has since continued to obtain a wealth of knowledge in all aspects of lifting & rigging equipment. Caleb’s attention has now turned to speciality steel wire rope with particular focus on the crane, drilling and speciality lift industries. Caleb plays a key part in the ongoing growth of the company through his involvement in the management & vision-setting for future company development.</p>
+							<h1>Contact</h1>
+                            <a href="tel:‭0413 158 872">‭0413 158 872‬</a>
+							<p><a href="mailto:caleb.scott@uniliftglobal.com?subject=Website Enquiry for Caleb">caleb.scott@uniliftglobal.com</a></p>
+						</section>
+						<section class="content">
+                            <h2><span class="image right"><img src="images/company-profile/Unilift-Team-Dom_0922_FMP_2796-WEB-012.png" alt=""/></span>Dom Thrush</h2>
+							<p><strong>Sales - Eastern Division</strong></p>
+							<p>Whilst Dom Thrush has only joined us at Unilift fairly recently (early in 2022), his many years in the mining, heavy machinery, steel fabrication and transport business has brought a wealth of experience to the team. Dom’s responsibilities lie within the sales department, predominantly looking after our QLD and NSW clients. His specialist field is in high performance synthetic slings and steel wire rope. With a keen sense of humour Dom is always ready with a joke and a smile, and is always willing to go the extra mile for each & every customer.</p>
+							<h1>Contact</h1>
+                            <a href="tel:‭0456 901 380‬">‭0456 901 380‬</a>
+							<p><a href="mailto:dom.thrush@uniliftglobal.com?subject=Website Enquiry for Dom">dom.thrush@uniliftglobal.com</a></p>
+						</section>
+						<section class="content">
+                            <h2><span class="image right"><img src="images/company-profile/Ian-Bravo-Profile-Oct22.jpg" alt=""/></span>Ian Bravo</h2>
+							<p><strong>Sales - Western Division</strong></p>
+							<p>Originally trained as mechanical engineer, Ian Bravo worked for 13 years in preventative & corrective maintenance for Toppan NEC (a large circuit-board manufacturer) in both in the Philippines and Japan. 
+                                A new warehouse role in Perth accompanied his move to Australia, and he then came to Unilift as a part-time store-person in 2019. 
+                                With his extensive mechanical & maintenance background, Ian was the ideal candidate to head up our Perth operation as the Western Division sales & warehouse manager.</p>
+							<h1>Contact</h1>
+                            <a href="tel:0435 555 051">0435 555 051</a>
+							<p><a href="mailto:ian.bravo@uniliftglobal.com?subject=Website Enquiry for Ian">ian.bravo@uniliftglobal.com</a></p>
+						</section>
+					</div>
+				</div>
+			</section>
+									
+						
+		<!-- One -->
+			<section id="one" class="wrapper major-pad">
+				<div class="inner">
+                <header class="major">
+					<h2><a name="mining"></a>Manufacturing & Dispatch</h2>
+                </header>
+				</div>
+			</section>
+
+		<!-- Two -->
+			<section id="two" class="wrapper content-pad">
+				<div class="inner">
+					<div class="features">
+						<section class="content">
+                            <h2><span class="image right"><img src="images/company-profile/Unilift-Team-Elmer_0922_FMP_2776-WEB-011.png" alt="Elmer Cartegena"/></span>Elmer Cartegena</h2>
+							<p><strong>Production Manager</strong></p>
+							<p>After many years working in electronics, Elmer Cartagena — a qualified mechanical engineer — joined the Unilift wire rope sling production team in 2014 in our West Australian facility. 
+                                Having also qualified as a lifting & rigging inspector with full NATA accreditation, Elmer has played a crucial role in Unilift’s growth through his experience with offshore and on-shore rigging equipment compliance & testing. 
+                                After 2 years in quality management, Elmer was promoted to Production Manager in 2018, and from 2023 has taken on the role of technical manager for all production & assembly in our factory, as well as tech advisor to our clients.</p>
+							<h1>Contact</h1>
+							<p><a href="mailto:elmer.cartegena@uniliftglobal.com?subject=Website Enquiry for Elmer">elmer.cartegena@uniliftglobal.com</a></p>
+						</section>
+						<section class="content">
+                            <h2><span class="image right"><img src="images/company-profile/Unilift-Team-Rob_0922_FMP_2771-WEB-009.png" alt="Rob Thornley"/></span>Rob Thornley</h2>
+							<p><strong>Operations Manager</strong></p>
+							<p>After many years working in Logistics and Distribution In Europe, Rob joined the Unilift’s dispatch team in February of 2022 in our New South Wales facility. Having also extensive experience with customer support and satisfaction, Rob plays a crucial role in Unilift’s growth through his experience with team management and understanding client’s needs. After 12 Months working within dispatch and stores, Rob graduated in Warehouse and General Management and was promoted to Operations Manager in 2023, and now oversees all Unilift procedures and scheduling Australia Wide.</p>
+							<h1>Contact</h1>
+							<p><a href="mailto:rob.thornley@uniliftglobal.com?subject=Website Enquiry for Rob">rob.thornley@uniliftglobal.com</a></p>
+						</section>
+						<section class="content">
+                            <h2><span class="image right"><img src="images/company-profile/Unilift-Team-Herbert_0922_FMP_2756-WEB-003.png" alt="Herbert Avinante"/></span>Herbert Avinante</h2>
+							<p><strong>Quality Assurance</strong></p>
+							<p>Herbert is just a little bit shy so check back soon to find out more about our fabulous QA manager!</p>
+							<h1>Contact</h1>
+							<p><a href="mailto:herbert.avinante@uniliftglobal.com?subject=Website Enquiry for Herbert">herbert.avinante@uniliftglobal.com</a></p>
+						</section>
+					</div>
+				</div>
+			</section>
+        
+		<!-- One -->
+			<section id="one" class="wrapper major-pad">
+				<div class="inner">
+                <header class="major">
+					<h2><a name="mining"></a>Installation, Inspection & Testing</h2>
+                </header>
+				</div>
+			</section>
+
+		<!-- Two -->
+			<section id="two" class="wrapper content-pad">
+				<div class="inner">
+					<div class="features">
+						<section class="content">
+                            <h2><span class="image right"><img src="images/company-profile/Unilift-Team-Raphael_0922_FMP_2752-WEB-002.png" alt="Elmer Cartegena"/></span>Raphael Sales</h2>
+							<p><strong>Inspection & Testing</strong></p>
+							<p>Raph is just a little bit shy so check back soon to find out more about our fabulous inspection & testing manager!</p>
+							<h1>Contact</h1>
+							<p><a href="mailto:raphael.sales@uniliftglobal.com?subject=Website Enquiry for Raphael">raphael.sales@uniliftglobal.com</a></p>
+						</section>
+						<section class="content">
+                            <h2><span class="image right"><img src="images/company-profile/Unilift-Team-Breanna_0922_FMP_2767-WEB-007.png" alt="Breanna Scott"/></span>Breanna Scott</h2>
+							<p><strong>Inspection Scheduler</strong></p>
+							<p>Breanna commenced her journey with Unilift in late 2019. Beginning in an administrative role, she quickly became an integral part of the Unilift family, working alongside her father & three older brothers. Today Breanna holds the position of Inspection Scheduler for the Testing & Inspection team, taking care of all the inspection bookings, arrangements & administration.</p>
+							<h1>Contact</h1>
+							<p><a href="mailto:breanna.scott@uniliftglobal.com?subject=Website Enquiry for Breanna">breanna.scott@uniliftglobal.com</a></p>
+						</section>
+						<section class="content">
+						</section>
+					</div>
+				</div>
+			</section>
+        
+
+					
+		<!-- Three -->
+			<section id="three" class="wrapper style2">
+				<div class="inner">					<h2><span style="color: #808080;">Latest Projects</span></h2>
+                    <div class="posts">
+						<section class="post">
+							<span class="image"><img src="images/news/unilift-rail-construction-news-1.jpg" alt="Rail Construction Project" /></span>
+							<div class="content">
+								<h3>Rail Construction Project</h3>
+								<p>Unilift was asked to design and manufacture a rigging and lifting system for lifting 120 metre lengths of rail and 7 lengths per lift with a head height of 10 meters…</p>
+								<ul class="actions">
+									<li><a href="latest-news.html#rail" class="button">More</a></li>
+								</ul>
+							</div>
+						</section>
+						<section class="post">
+							<span class="image"><img src="images/news/unilift-north-connex-news-3.jpg" alt="North Connex" /></span>
+							<div class="content">
+								<h3>North Connex Tunnel</h3>
+								<p>During the early stages of the tunnelling project engineers contacted Unilift to discuss the need for specialised lifting beams and spreader bars for mobilisation of drill rigs…</p>
+								<ul class="actions">
+									<li><a href="latest-news.html#tunnel" class="button">More</a></li>
+								</ul>
+							</div>
+						</section>
+						<section class="post">
+							<span class="image"><img src="images/news/unilift-esso-wharf-news-1.jpg" alt="Esso Whark Deconstruction" /></span>
+							<div class="content">
+								<h3>Esso Wharf Deconstruction</h3>
+								<p>Unilift were contacted to perform an inspection on an 800 tonne heavy-lift crane barge, of the main hoist ropes, boom suspension pendants and mooring winch ropes prior to mobilisation…</p>
+								<ul class="actions">
+									<li><a href="latest-news.html#wharf" class="button">More</a></li>
+								</ul>
+							</div>
+						</section>
+					</div>
+				</div>
+			</section>
+
+		<!-- Contact -->
+			<section id="contact" class="wrapper split">
+				<div class="inner">
+					<section>
+						<h2>NSW Head Office</h2>
+						<a href="https://goo.gl/maps/2Msr4kDjMfXB1vy19" target="_blank" class="image fit"><img src="images/company-profile/Unilift-Google-Map-Orange-Oct23.jpg" alt="Visit Unilift Global's NSW Head Office on Google Maps"></a>
+						<p>View a larger version in <a href="https://goo.gl/maps/2Msr4kDjMfXB1vy19" target="_blank">Google Maps</a></p>
+						<h2>Contact us</h2>
+						<ul class="bulleted-icons">
+							<li>
+								<span class="icon-wrapper"><span class="icon fa-home"></span></span>
+								<h3>Unilift Head Office</h3>
+								<p>9 Astill Drive, <br>Orange, NSW 2800</p>
+							</li>
+							<li>
+								<span class="icon-wrapper"><span class="icon fa-phone"></span></span>
+								<h3>General Enquiries</h3>
+								<p>(02) 6360 3311</p>
+							</li>
+							<li>
+								<span class="icon-wrapper"><span class="icon fa-envelope"></span></span>
+								<h3>Email Enquiries</h3>
+								<p><a href="mailto:sales@uniliftglobal.com?subject=Website Enquiry for Unilift Global">sales@uniliftglobal.com</a></p>
+							</li>
+							<li>
+								<span class="icon-wrapper"><span class="icon fa-facebook"></span></span>
+								<h3>Facebook</h3>
+								<p><a href="https://www.facebook.com/Unilift-Equipment-1047028168668794">Connect with us</a></p>
+							</li>
+							<li>
+								<span class="icon-wrapper"><span class="icon fa-youtube"></span></span>
+								<h3>Youtube</h3>
+								<p><a href="https://www.youtube.com/channel/UC4B1RzVq2ktL0XdzqwrnRMA">Watch our videos</a></p>
+							</li>							<li>
+								<span class="icon-wrapper"><span class="icon fa-linkedin"></span></span>
+								<h3>LinkedIn</h3>								
+                                <p><a href="https://www.linkedin.com/company/unilift-global/">Connect with us</a></p>
+                            </li>
+</ul>
+					</section>
+					<section>
+						<h2>WA Branch Office</h2>
+						<a href="https://goo.gl/maps/tNFivVBP9ZvVWpXg8" target="_blank" class="image fit"><img src="images/company-profile/Unilift-Google-Map-Cockburn-Oct23.jpg" alt="Visit Unilift Global's WA Branch Office on Google Maps"></a>
+						<p>View a larger version in <a href="https://goo.gl/maps/tNFivVBP9ZvVWpXg8" target="_blank">Google Maps</a></p>
+						<h2>Contact us</h2>
+						
+						<ul class="bulleted-icons">
+							<li>
+								<span class="icon-wrapper"><span class="icon fa-home"></span></span>
+								<h3>WA Branch Office</h3>
+								<p>Unit 4/19 Tamara Drive, <br>Cockburn Central, WA 6164</p>
+							</li>
+							<li>
+								<span class="icon-wrapper"><span class="icon fa-phone"></span></span>
+								<h3>General Enquiries</h3>
+								<p>(08) 6186 7860</p>
+							</li>
+							<li>
+								<span class="icon-wrapper"><span class="icon fa-envelope"></span></span>
+								<h3>Email Enquiries</h3>
+								<p><a href="mailto:wasales@uniliftglobal.com?subject=Website Enquiry for Unilift Global">wasales@uniliftglobal.com</a></p>
+							</li>
+							<li>
+								<span class="icon-wrapper"><span class="icon fa-facebook"></span></span>
+								<h3>Facebook</h3>
+								<p><a href="https://www.facebook.com/Unilift-Equipment-1047028168668794">Connect with us</a></p>
+							</li>
+							<li>
+								<span class="icon-wrapper"><span class="icon fa-youtube"></span></span>
+								<h3>Youtube</h3>
+								<p><a href="https://www.youtube.com/channel/UC4B1RzVq2ktL0XdzqwrnRMA">Watch our videos</a></p>
+							</li>							<li>
+								<span class="icon-wrapper"><span class="icon fa-linkedin"></span></span>
+								<h3>LinkedIn</h3>								
+                                <p><a href="https://www.linkedin.com/company/unilift-global/">Connect with us</a></p>
+                            </li>
+</ul>
+					</section>
+				</div>
+			</section>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="inner">
+					<p class="copyright">Copyright &copy; 2023 Unilift Global. All rights reserved.</p>
+					<ul class="menu">
+						<li>Website strategy & design by <a href="https://www.freshlymilled.com">Freshly Milled</a></li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+			
+		<!-- Image Gallery -->
+	<script src="lib/jquery-2.0.3.js"></script>
+	<script src="swipebox/src/js/jquery.swipebox.js"></script>
+	<script src="swipebox/lib/ios-orientationchange-fix.js"></script>
+	<script type="text/javascript">
+    ;( function( $ ) {
+    
+        $( '.swipebox' ).swipebox();
+    
+    } )( jQuery );
+    </script>
+
+	</body>
+</html>
